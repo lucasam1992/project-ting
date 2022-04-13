@@ -26,7 +26,7 @@ O projeto consiste em uma aplicação que simule o algoritmo de indexação de d
 
 4° - `python3 -m pip install -r dev-requirements.txt` - Instale as dependências <br />
 
-### Requisitos
+## Requisitos
 
 - 1 - Implemente uma fila para armazenar os arquivos que serão lidos. Preencha a classe `Queue`, presente no arquivo `queue.py` utilizando as estruturas vistas no módulo.
 
