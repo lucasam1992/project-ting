@@ -19,8 +19,11 @@ O projeto consiste em uma aplicação que simule o algoritmo de indexação de d
 ## Rodando o Projeto Localmente
 
 1° - `git clone https://github.com/lucasam1992/project-ting.git` - Clone o repositório para a sua máquina <br />
+
 2° - `cd project-ting` - Entre na pasta do repositório clonado <br />
+
 3° - `python3 -m venv .venv && source .venv/bin/activate` - Crie e ative o ambiente virtual para o projeto <br />
+
 4° - `python3 -m pip install -r dev-requirements.txt` - Instale as dependências <br />
 
 ### Requisitos
